@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/inventry/static/css/main.898a9520.chunk.css",
+    "main.js": "/inventry/static/js/main.41d70a65.chunk.js",
+    "main.js.map": "/inventry/static/js/main.41d70a65.chunk.js.map",
+    "runtime-main.js": "/inventry/static/js/runtime-main.2f269a34.js",
+    "runtime-main.js.map": "/inventry/static/js/runtime-main.2f269a34.js.map",
+    "static/css/2.c364ee98.chunk.css": "/inventry/static/css/2.c364ee98.chunk.css",
+    "static/js/2.f50cce44.chunk.js": "/inventry/static/js/2.f50cce44.chunk.js",
+    "static/js/2.f50cce44.chunk.js.map": "/inventry/static/js/2.f50cce44.chunk.js.map",
+    "static/js/3.8e2e60d4.chunk.js": "/inventry/static/js/3.8e2e60d4.chunk.js",
+    "static/js/3.8e2e60d4.chunk.js.map": "/inventry/static/js/3.8e2e60d4.chunk.js.map",
+    "index.html": "/inventry/index.html",
+    "static/css/2.c364ee98.chunk.css.map": "/inventry/static/css/2.c364ee98.chunk.css.map",
+    "static/css/main.898a9520.chunk.css.map": "/inventry/static/css/main.898a9520.chunk.css.map",
+    "static/js/2.f50cce44.chunk.js.LICENSE.txt": "/inventry/static/js/2.f50cce44.chunk.js.LICENSE.txt",
+    "static/media/font-awesome.css": "/inventry/static/media/fontawesome-webfont.f691f37e.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f269a34.js",
+    "static/css/2.c364ee98.chunk.css",
+    "static/js/2.f50cce44.chunk.js",
+    "static/css/main.898a9520.chunk.css",
+    "static/js/main.41d70a65.chunk.js"
+  ]
+}
