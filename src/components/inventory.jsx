@@ -49,6 +49,10 @@ class Inventory extends Component {
     this.setState({ searchValue, errors });
   };
 
+  handleClick = () => {
+    this.props.history.push('/editInventry');
+  };
+
   render() {
     const { inventories, searchValue } = this.state;
     const fruits = "Fruits";
@@ -118,7 +122,7 @@ class Inventory extends Component {
                             <td>{sub.skuid}</td>
                             <td>{sub.stocks}</td>
                             <td>
-                              <Edit />
+                              <Edit handleClick={this.handleClick} />
                             </td>
                           </tr>
                         ))}
